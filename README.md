@@ -43,12 +43,11 @@ Seguimos el avance del proyecto y las tareas del hackathon en Trello:
 
 1. **Clona o descarga** el repositorio:
    ```bash
-   git clone <url-del-repositorio>
-   cd Hackaton1_Gen
+   git clone https://github.com/SneyderRodriguez/FRITICOS-COLOMBIA.git
    ```
 
 2. **Abre la carpeta del proyecto** en VS Code o Cursor:
-   - Archivo → Abrir carpeta → selecciona `Hackaton1_Gen`
+   - Archivo → Abrir carpeta → selecciona `Friticos-Colombia`
 
 3. **Inicia Live Server** (cualquiera de estas opciones):
    - Clic derecho sobre `index.html` → **Open with Live Server**
